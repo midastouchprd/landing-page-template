@@ -1,0 +1,10 @@
+{
+  "name": "landing-page-template",
+  "version": "1.0.0",
+  "description": "template for no server landing pages",
+  "main": "index.html",
+  "repository": "https://github.com/midastouchprd/landing-page-template.git",
+  "author": "Oluwatosin Awofeso <midastouchproductions@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
